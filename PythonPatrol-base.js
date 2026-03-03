@@ -8,7 +8,7 @@ const STRINGS = {
         newsletterSignup: 'Thank you for signing up! You would receive a confirmation email in a real implementation.'
     },
     'es-US': {
-        newsletterSignup: 'Thank you for signing up! You would receive a confirmation email in a real implementation.'
+        newsletterSignup: '¡Gracias por registrarte! Te enviaríamos un correo de confirmación, pero esto es solo una demostración.'
         // TODO (students): replace the English above with your Spanish translation.
     }
 };
